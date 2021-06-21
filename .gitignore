@@ -13,6 +13,12 @@ out
 *.iml
 .idea
 
+# vscode
+.vscode
+
+# macos
+.DS_STORE
+
 # gradle
 build
 .gradle
