@@ -1,0 +1,16 @@
+[
+{
+  "modid": "namehistory",
+  "name": "Name History",
+  "description": "/namehistory username or /nh username",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "e",
+  "updateUrl": "",
+  "authorList": ["jamesr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
